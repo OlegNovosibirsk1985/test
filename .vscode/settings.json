@@ -1,0 +1,14 @@
+{
+    "git.allowForcePush": true,
+    "git.allowNoVerifyCommit": true,
+    "git.alwaysShowStagedChangesResourceGroup": true,
+    "git.alwaysSignOff": true,
+    "git.autorefresh": false,
+    "git.confirmSync": false,
+    "git.confirmNoVerifyCommit": false,
+    "git.enableStatusBarSync": false,
+    "git.optimisticUpdate": false,
+    "git.pullTags": false,
+    "github.branchProtection": false,
+    "github.gitAuthentication": false
+}
